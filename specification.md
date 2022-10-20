@@ -1,4 +1,4 @@
-# Open Ocean Data Exchange API
+# Ocean Data Exchange API
 
 This API specification defines a protocol for how a client can consume data from a server and update a local database or store; or push data to a remote endpoint and modify a collection of resources.
 
