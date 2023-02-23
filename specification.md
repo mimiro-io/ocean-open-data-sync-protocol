@@ -119,14 +119,7 @@ The changes endpoint returns the following JSON response:
     "isDeleted" : false,
     "geometry": {
         "type": "Point",
-        "coordinates": [
-        [
-            [
-            172.91173669923782,
-            1.3438851951615003
-            ]
-        ]
-        ]
+        "coordinates": [ 172.91173669923782, 1.3438851951615003 ]
     },
     "properties": {
         "title": "An observation",
